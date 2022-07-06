@@ -246,14 +246,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is organised by the HEP Software Foundation and IRIS-HEP. This training is aimed at those who are new to HEP and want a fast-track to competency with software fundamentals, as well the non-expert self-taught who wish to ensure they do not have gaps in their knowledge. Visit the <a href="https://indico.cern.ch/event/1159157/">official event website</a> for more details and to register. 
-  
-
 </p>
-{% endcomment %}
 
 <hr/>
 
